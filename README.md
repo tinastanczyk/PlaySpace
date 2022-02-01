@@ -23,7 +23,7 @@ PlaySpace is a music sharing app designed to share Spotify playlists. Save your 
 
 ## Deployment
 
-PlaySpace is deployed on Heroku at: https://shielded-forest-19133.herokuapp.com/
+PlaySpace is deployed on Heroku at: https://blooming-taiga-58693.herokuapp.com/
 
 ## Installation
 
@@ -53,11 +53,17 @@ SO THAT I can connect with friends and family to share our love of music online
 
 ## Usage
 
-![Screenshot of Final Code]
-
+![gif of web app](assets/images/playspace.gif)
+```md
+Use our test user Spotify Account!
+Spotify Email: t9.stanczyk@gmail.com
+Spotify Password: t9napassword
+```
 ## Credits
 
-Coding was completed by Bonnie DiPasquale, Lauren Ferrett, Kara Heeb, and Tina Stancyzk.
+Coding was completed by Bonnie DiPasquale, Tina Stanczyk, Lauren Ferrett and Kara Heeb.
+
+![our team](assets/images/PlaySpace-team-shot.png)
 
 ### Resources
 This series on fetching music from Spotify and transferring them to Apple Music was a big help:
@@ -92,4 +98,4 @@ Questions or opportunities for collaboration can be directed to any member of th
 [Bonnie DiPasquale](https://github.com/bvasko/)  
 [Lauren Ferrett](https://github.com/lferrett)  
 [Kara Heeb](https://github.com/kheeb)  
-[Tina Stancyzk](https://github.com/tinastanczyk)
+[Tina Stanczyk](https://github.com/tinastanczyk)
